@@ -10,7 +10,7 @@
 
 | Process | Chapter Name | Author Name | Quality Rank\(0-10\) |  
 | :---: | :--- | :---: | :---: |  
-| 1% | 面向对象思想 | 面向对象的基本原则  | ☆ |  
+| 1% | 面向对象思想 | [面向对象的基本原则](ex_object_oriented_think.md)  | ☆ |  
 | 1% | 创建型模式 | Factory模式  | ☆ |  
 | 1% | 创建型模式 | AbstactFactory模式 | ☆ |  
 | 1% | 创建型模式 | Singleton模式 | ☆ |  
@@ -34,6 +34,6 @@
 | 1% | 行为模式 | Chain of Responsibility模式 | ☆ |  
 | 1% | 行为模式 | Iterator模式 | ☆ |  
 | 1% | 行为模式 | Interpreter模式 | ☆ |  
-| 1% | 分层模式 | 分层架构模式 | ☆ |  
-| 1% | 三层模式 | 三层架构模式 | ☆ |  
+| 1% | 分层模式 | [分层架构模式](book-cn/ex_hierarchical_architecture.md) | ☆ |  
+| 100% | 三层模式 | [三层架构模式](book-cn/ex_three_layer_architecture.md) | ☆ |  
 | 1% | 混合模式 | 混合架构模式 | ☆ |  

@@ -14,7 +14,7 @@
 
 | Process | Chapter Name | Author Name | Quality Rank\(0-10\) |  
 | :---: | :--- | :---: | :---: |  
-| 2% | 面向对象思想 | [面向对象的基本原则](ex_object_oriented_think.md)  | ☆ |  
+| 100% | 面向对象思想 | [面向对象的基本原则](ex_object_oriented_think.md)  | ☆ |  
 | 2% | 创建型模式 | [Factory模式](pattern_create/pattern_factory_method.md) | ☆ |  
 | 2% | 创建型模式 | [AbstactFactory模式](pattern_create/pattern_abs_factory.md) | ☆ |  
 | 2% | 创建型模式 | [Singleton模式](pattern_create/pattern_singleton.md) | ☆ |  

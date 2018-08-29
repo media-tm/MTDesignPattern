@@ -12,14 +12,14 @@
 
 | Process | Pattern Type | Pattern Name | Quality Rank\(0-10\) |  
 | :---: | :--- | :---: | :---: |  
-| 1% | 行为模式 | Template模式 | ☆ |  
-| 1% | 行为模式 | Strategy模式  | ☆ |  
-| 1% | 行为模式 | State模式 | ☆ |  
-| 1% | 行为模式 | Observer模式 | ☆ |  
-| 1% | 行为模式 | Memento模式 | ☆ |  
-| 1% | 行为模式 | Mediator模式  | ☆ |  
-| 1% | 行为模式 | Command模式 | ☆ |  
-| 1% | 行为模式 | Visitor模式 | ☆ |  
-| 1% | 行为模式 | Chain of Responsibility模式 | ☆ |  
-| 1% | 行为模式 | Iterator模式 | ☆ |  
-| 1% | 行为模式 | Interpreter模式 | ☆ |
+| 1% | 行为模式 | [Template模式](pattern_template.md) | ☆ |  
+| 1% | 行为模式 | [Strategy模式](pattern_strategy.md)  | ☆ |  
+| 1% | 行为模式 | [State模式](pattern_state.md) | ☆ |  
+| 1% | 行为模式 | [Observer模式](pattern_observer.md) | ☆ |  
+| 1% | 行为模式 | [Memento模式](pattern_memento.md) | ☆ |  
+| 1% | 行为模式 | [Mediator模式](pattern_mediator.md)  | ☆ |  
+| 1% | 行为模式 | [Command模式](pattern_command.md) | ☆ |  
+| 1% | 行为模式 | [Visitor模式](pattern_visitor.md) | ☆ |  
+| 1% | 行为模式 | [Chain of Responsibility模式](pattern_chain.md) | ☆ |  
+| 1% | 行为模式 | [Iterator模式](pattern_iterator.md) | ☆ |  
+| 1% | 行为模式 | [Interpreter模式](pattern_interpreter.md) | ☆ |

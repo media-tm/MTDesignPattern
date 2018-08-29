@@ -12,32 +12,12 @@
 
 > 高能彩蛋：除了经典的模式还深入分析了Android中间件使用的设计模式，原创满满！
 
-| Process | Chapter Name | Author Name | Quality Rank\(0-10\) |  
+| Process | Pattern Type | Pattern Name | Quality Rank\(0-10\) |  
 | :---: | :--- | :---: | :---: |  
 | 100% | UML | [软件统一建模](book-cn/advanced/unified_modeling_language.md) | ☆☆☆ |  
 | 100% | 面向对象思想 | [面向对象的基本原则](book-cn/advanced/object_oriented_think.md)  | ☆☆☆ |  
 | 100% | 分层模式 | [分层架构模式](book-cn/advanced/hierarchical_architecture.md) | ☆☆☆ |  
 | 100% | 三层模式 | [三层架构模式](book-cn/advanced/three_layer_architecture.md) | ☆☆☆ |  
-| 5% | 创建型模式 | [Factory模式](book-cn/creational/pattern_factory_method.md) | ☆ |  
-| 5% | 创建型模式 | [AbstactFactory模式](book-cn/creational/pattern_abs_factory.md) | ☆ |  
-| 5% | 创建型模式 | [Singleton模式](book-cn/creational/pattern_singleton.md) | ☆ |  
-| 5% | 创建型模式 | [Builder模式](book-cn/creational/pattern_builder.md) | ☆ |  
-| 5% | 创建型模式 | [Prototype模式](book-cn/creational/pattern_prototype.md) | ☆ |
-| 1% | 结构型模式 | [Bridge模式](book-cn/structural/pattern_bridge.md) | ☆ |  
-| 1% | 结构型模式 | [Adapter模式](book-cn/structural/pattern_adapter.md) | ☆ |  
-| 1% | 结构型模式 | [Decorator模式](book-cn/structural/pattern_decorator.md) | ☆ |  
-| 1% | 结构型模式 | [Composite模式](book-cn/structural/pattern_composite.md) | ☆ |  
-| 1% | 结构型模式 | [Flyweight模式](book-cn/structural/pattern_flyweight.md) | ☆ |  
-| 1% | 结构型模式 | [Facade模式](book-cn/structural/pattern_facade.md)  | ☆ |  
-| 1% | 结构型模式 | [Proxy模式](book-cn/structural/pattern_proxy.md) | ☆ |  
-| 1% | 行为模式 | Template模式 | ☆ |  
-| 1% | 行为模式 | Strategy模式  | ☆ |  
-| 1% | 行为模式 | State模式 | ☆ |  
-| 1% | 行为模式 | Observer模式 | ☆ |  
-| 1% | 行为模式 | Memento模式 | ☆ |  
-| 1% | 行为模式 | Mediator模式  | ☆ |  
-| 1% | 行为模式 | Command模式 | ☆ |  
-| 1% | 行为模式 | Visitor模式 | ☆ |  
-| 1% | 行为模式 | Chain of Responsibility模式 | ☆ |  
-| 1% | 行为模式 | Iterator模式 | ☆ |  
-| 1% | 行为模式 | Interpreter模式 | ☆ |
+| 5% | 创建型模式 | [创建型设计模式(5种)](book-cn/creational/README.md) | ☆ |  
+| 5% | 结构型模式 | [结构型设计模式(7种)](book-cn/structural/README.md) | ☆ |  
+| 5% | 行为型模式 | [行为型设计模式(11种)](book-cn/behavioral/README.md) | ☆ |  

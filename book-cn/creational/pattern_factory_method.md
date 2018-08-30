@@ -19,8 +19,8 @@ Factory Method模式适用于以下场景：
 
 工厂方法模式的UML示例如下：
 
- ![工厂方法模式示例](../images/creational_factory_method.jpg)
- 
+![工厂方法模式示例](../images/creational_factory_method.jpg)
+
 工厂方法模式的工作过程如下：
 
 - Product类定义工厂方法所创建的对象的接口；

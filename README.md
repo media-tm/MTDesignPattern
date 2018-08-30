@@ -21,3 +21,11 @@
 | 5% | 创建型模式 | [创建型设计模式(5种)](book-cn/creational/README.md) | ☆ |  
 | 5% | 结构型模式 | [结构型设计模式(7种)](book-cn/structural/README.md) | ☆ |  
 | 5% | 行为型模式 | [行为型设计模式(11种)](book-cn/behavioral/README.md) | ☆ |  
+
+## 参考资料
+
+* [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+* [设计模式之禅](http://item.jd.com/11414555.html)
+* [java-design-patterns)](https://github.com/iluwatar/java-design-patterns)
+* [Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
+* [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)

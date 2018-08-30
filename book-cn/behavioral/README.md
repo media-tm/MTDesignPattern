@@ -23,3 +23,13 @@
 | 1% | 行为模式 | [Chain of Responsibility模式](pattern_chain.md) | ☆ |  
 | 1% | 行为模式 | [Iterator模式](pattern_iterator.md) | ☆ |  
 | 1% | 行为模式 | [Interpreter模式](pattern_interpreter.md) | ☆ |
+
+特别说明：具体设计模式中的类图和相关总结翻译自《GOF的设计模式》等。Android模式示例源自本人的工作总结。源码级别的示例后续增补。
+
+## 参考资料
+
+* [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+* [设计模式之禅](http://item.jd.com/11414555.html)
+* [java-design-patterns)](https://github.com/iluwatar/java-design-patterns)
+* [Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
+* [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)

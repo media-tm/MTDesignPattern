@@ -1,8 +1,8 @@
-# Flyweight模式
+# 享元模式(Flyweight Pattern)
 
-Flyweight模式运用共享技术有效地支持大量细粒度的对象。Flyweight模式即享元模式。
+享元模式(Flyweight Pattern)运用共享技术有效地支持大量细粒度的对象。Flyweight模式即享元模式。
 
-Flyweight模式属于结构型模式。结构型模式涉及到如何组合类和对象以获得更大的结构；结构型类模式采用继承机制来组合接口或实现。结构型模式主要包括：Adapter模式、Bridge模式、Composite模式、Decorator模式、Facade模式、Flyweight模式和Proxy模式。结构型类模式在某种程度上具有相关性。
+享元模式(Flyweight Pattern)属于结构型模式。结构型模式涉及到如何组合类和对象以获得更大的结构；结构型类模式采用继承机制来组合接口或实现。结构型模式主要包括：Adapter模式、Bridge模式、Composite模式、Decorator模式、Facade模式、Flyweight模式和Proxy模式。结构型类模式在某种程度上具有相关性。
 
 ## 模式简介
 

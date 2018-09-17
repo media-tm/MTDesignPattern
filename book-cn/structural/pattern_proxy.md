@@ -1,8 +1,8 @@
-# Proxy模式
+# 代理模式(Proxy Pattern)
 
 代理模式(Proxy Pattern)为访问对象提供一个代理对象来实现对被访问者的访问，其实就是在访问对象与被访问对象之间添加一个中介，用来隔离访问者与被访问者的具体实现细节。
 
-Proxy模式属于结构型模式。结构型模式涉及到如何组合类和对象以获得更大的结构；结构型类模式采用继承机制来组合接口或实现。结构型模式主要包括：Adapter模式、Bridge模式、Composite模式、Decorator模式、Facade模式、Flyweight模式和Proxy模式。结构型类模式在某种程度上具有相关性。
+代理模式(Proxy Pattern)属于结构型模式。结构型模式涉及到如何组合类和对象以获得更大的结构；结构型类模式采用继承机制来组合接口或实现。结构型模式主要包括：Adapter模式、Bridge模式、Composite模式、Decorator模式、Facade模式、Flyweight模式和Proxy模式。结构型类模式在某种程度上具有相关性。
 
 ## 模式简介
 

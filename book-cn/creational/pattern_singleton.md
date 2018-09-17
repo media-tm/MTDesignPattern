@@ -1,10 +1,12 @@
-# Singleton模式
+# 单例模式(Singleton Pattern)
 
-单例模式保证一个类仅有一个实例，并提供一个访问它的全局访问点。Singleton模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstactFactory模式，Singleton模式，ProtoType模式和Builder模式。
+> 一起创作,Come on!! [设计模式-Github-Ebook](https://github.com/media-tm/MTDesignPattern)
+
+单例模式(Singleton Pattern)保证一个类仅有一个实例，并提供一个访问它的全局访问点。Singleton模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstractFactory模式，Singleton模式，ProtoType模式和Builder模式。
 
 ## 模式简介
 
-Singleton模式是最简单的设计模式。Singleton模式的核心结构中只包含一个单例的特殊类。通过单例模式可以保证系统中有仅仅有唯一的示例。
+单例模式(Singleton Pattern)是最简单的设计模式。Singleton模式的核心结构中只包含一个单例的特殊类。通过单例模式可以保证系统中有仅仅有唯一的示例。
 
 GOF的《设计模式》指出单例模式的意图是：  
 保证一个类仅有一个实例，并提供一个访问它的全局访问点。
@@ -37,7 +39,7 @@ Singleton模式适用于以下场景：
 
 Android的系统服务大量使用了单例模式
 
-``` javascript  或者 示例： \ javascript
+``` javascript
 libmedia/AudioSystem.cpp:33:// client singleton for AudioFlinger binder interface
 libmedia/AudioSystem.cpp:683:// client singleton for AudioPolicyService binder interface
 libmedia/IMediaDeathNotifier.cpp:27:// client singleton for binder interface to services

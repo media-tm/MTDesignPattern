@@ -1,10 +1,12 @@
-# Prototype模式
+# 原型模式(Prototype Pattern)
 
-Prototype模式用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。Prototype模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstactFactory模式，Singleton模式，ProtoType模式和Builder模式。
+> 一起创作,Come on!! [设计模式-Github-Ebook](https://github.com/media-tm/MTDesignPattern)
+
+原型模式(Prototype Pattern)用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。Prototype模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstactFactory模式，Singleton模式，ProtoType模式和Builder模式。
 
 ## 模式简介
 
-Prototype模式提供了一个通过已存在对象进行新对象创建的接口（Clone）， Clone()实现和具体的语言相关，在C++中通过拷贝构造函数实现。Prototype模式和Builder模式、AbstractFactory模式都是通过一个类（对象实例）来专门负责对象的创建工作（工厂对象），它们之间的区别是：Builder模式重在复杂对象的一步步创建（并不直接返回对象），AbstractFactory模式重在产生多个相互依赖类的对象，而Prototype模式重在从自身复制自己创建新类。
+原型模式(Prototype Pattern)提供了一个通过已存在对象进行新对象创建的接口（Clone）， Clone()实现和具体的语言相关，在C++中通过拷贝构造函数实现。Prototype模式和Builder模式、AbstractFactory模式都是通过一个类（对象实例）来专门负责对象的创建工作（工厂对象），它们之间的区别是：Builder模式重在复杂对象的一步步创建（并不直接返回对象），AbstractFactory模式重在产生多个相互依赖类的对象，而Prototype模式重在从自身复制自己创建新类。
 
 GOF的《设计模式》指出原型模式的意图是：  
 用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。
@@ -19,7 +21,7 @@ Prototype模式适用于以下场景：
 
 原型模式用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。原型模式的UML示例如下：
 
-![单例模式示例](../images/creational_prototype.jpg)
+![原型模式示例](../images/creational_prototype.jpg)
 
 原型模式的工作过程如下：
 

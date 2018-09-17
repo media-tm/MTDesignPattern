@@ -1,6 +1,8 @@
-# 工厂方法模式
+# 工厂方法模式(Factory Method Pattern)
 
-工厂方法模式又名虚构造器（Virtual Constructor），主要是为创建对象提供了接口，是代替new操作的一种模式。工厂方法模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstactFactory模式，Singleton模式，ProtoType模式和Builder模式。
+> 一起创作,Come on!! [设计模式-Github-Ebook](https://github.com/media-tm/MTDesignPattern)
+
+工厂方法模式(Factory Method Pattern)又名虚构造器（Virtual Constructor），主要是为创建对象提供了接口，是代替new操作的一种模式。工厂方法模式属于创建型模式，创建型模式包括FactoryMethod模式，AbstractFactory模式，Singleton模式，ProtoType模式和Builder模式。
 
 ## 模式简介
 

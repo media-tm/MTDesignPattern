@@ -38,4 +38,16 @@ Prototype模式适用于以下场景：
 - 用类动态配置应用，一些运行时刻环境允许你动态将类装载到应用中；
 
 ## 模式实例
+
 [Android中的设计模式之原型模式](https://yq.aliyun.com/articles/628892)
+
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)

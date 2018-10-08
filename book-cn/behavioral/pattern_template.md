@@ -47,3 +47,14 @@ Android框架中大量使用了Template Method模式，诸如：
 - ${android_sdk_root}/external/clang/lib/Sema/SemaTemplate.cpp
 - ${android_sdk_root}/external/clang/lib/Sema/SemaTemplateInstantiateDecl.cpp
 - ${android_sdk_root}/external/clang/lib/Sema/SemaTemplateDeduction.cpp
+
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)

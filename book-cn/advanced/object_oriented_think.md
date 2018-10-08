@@ -46,3 +46,14 @@ Liskov替换原则的核心思想是：子类必须能够替换其基类。这�
 
 > 你并不必严格遵守这些原则，违背它们也不会被处以宗教刑罚。但你应当把这些原则看做警铃，若违背了其中的一条，那么警铃就会响起。     -- ARTHUR J.RIEL《OOD启示录》
 以上就是5个基本的设计原则，它们就像面向对象程序设计中的最基本原则，遵守它们可以使我们的系统架构合理，易于复用和扩展。不遵循他们，就没有了设计的灵魂和美感。
+
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)

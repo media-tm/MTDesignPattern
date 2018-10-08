@@ -40,6 +40,13 @@ Chain of Responsibility模式的有益效果如下：
 
 图形编辑器框架Unidraw定义了“命令” Command对象，它封装了发给Component和ComponentView对象的请求。一个构件或构件视图可解释一个命令以进行一个操作，这里“命令”就是请求。这对应于在实现一节中描述的 “对象作为请求” 的方法。构件和构件视图可以组织为层次式的结构。一个构件或构件视图可将命令解释转发给它的父构件，而父构件依次可将它转发给它的父构件，如此类推，就形成了一个责任链。
 
-## 软件设计模式系列
- [软件设计模式专题-Github](https://github.com/media-tm/MTDesignPattern)
- [软件设计模式专题-CSDN](https://blog.csdn.net/shareviews/article/details/82630977)
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)

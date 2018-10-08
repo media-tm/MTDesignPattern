@@ -46,3 +46,14 @@ Abstract Factory 模式可以用来创建和配置一个特定的Bridge模式。
 Coplien的String类[COP92],这个类中中多个对象可以共享同一个字符串表示(StringRep)。
 
 - ${android_sdk_root}/frameworks/base/core/java/android/os/FileBridge.java
+
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)

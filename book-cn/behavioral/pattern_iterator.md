@@ -45,3 +45,14 @@ Composite模式: 迭代器常被应用到象复合这样的递归结构上。Fac
 
 流行的集合类库Boost提供队列(Queue)的固定大小和动态大小的两种实现。队列的接口由抽象的Queue类定义。为了支持多态迭代，队列迭代器的实现基于抽象的Queue类接口。这样做的优点在于，不需要每个队列都实现一个Factory Method来提供合适的迭代器。
 但是, 它要求抽象Queue类的接口的功能足够强大以有效地实现通用迭代器。
+
+## 系列文章
+
+- [CSDN专栏: 设计模式(UML/23种模式)](https://blog.csdn.net/column/details/27399.html)
+- [Github专栏: 设计模式(UML/23种模式)](https://github.com/media-tm/MTDesignPattern)
+
+## 参考文献
+
+- [GOF的设计模式：可复用面向对象软件的基础](http://item.jd.com/10057319.html)
+- [设计模式之禅](http://item.jd.com/11414555.html)
+- [图说设计模式](https://github.com/me115/design_patterns)
